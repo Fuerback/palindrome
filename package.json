@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "check palindrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palindrome",
+    "api"
+  ],
+  "author": "felipe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6"
+  }
+}
